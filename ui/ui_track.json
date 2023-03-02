@@ -1,0 +1,12 @@
+ {
+	"name": "Czyzoring",
+	"description": "Czyzoring kart track",
+	"tags" : ["#kart","drift","test track","circuit","original","Poland"],
+	"geotags": ["lat", "lon"],
+	"country": "Poland",
+	"city": "Rybnik",
+	"length": "905",
+	"width": "15",
+	"pitboxes": "18",
+	"run": "DRIFT"
+}
