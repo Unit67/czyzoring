@@ -4,9 +4,12 @@
 	"tags" : ["#kart","drift","test track","circuit","original","Poland"],
 	"geotags": ["lat", "lon"],
 	"country": "Poland",
-	"city": "Rybnik",
+	"city": "Wodzislaw Slaski",
 	"length": "905",
 	"width": "15",
-	"pitboxes": "18",
-	"run": "DRIFT"
+	"pitboxes": "2",
+	"run": "DRIFT",
+	"author": "Unit67",
+	"year": "2023",
+	"version": 1.0
 }
